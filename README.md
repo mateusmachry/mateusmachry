@@ -72,39 +72,34 @@ I'm Mateus, a software engineer passionate about bringing digital products to li
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### 📊 Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mateusmachry&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-  <img 
-      align="left" 
-      alt="Tech Stack" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmachry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<img 
+  alt="Tech Stack" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmachry&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
+/>
+
+---
 
 ### 🔭 My Projects
 
-[![MicroInteractionsUI](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=microinteractionsui)](https://github.com/mateusmachry/microinteractionsui)
-[![WheelOfFortune](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=react-wheel-of-fortune)](https://github.com/mateusmachry/react-wheel-of-fortune)
+[![MicroInteractionsUI](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=microinteractionsui&theme=tokyonight)](https://github.com/mateusmachry/microinteractionsui)
+
+[![WheelOfFortune](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=react-wheel-of-fortune&theme=tokyonight)](https://github.com/mateusmachry/react-wheel-of-fortune)
