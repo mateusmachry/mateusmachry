@@ -1,16 +1,110 @@
-## Hi there 👋
+# 👩🏻‍💻 Mateus Machry
 
-<!--
-**mateusmachry/mateusmachry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Software Engineer`**
 
-Here are some ideas to get you started:
+Hi, there 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mateus, a software engineer passionate about bringing digital products to life. I am passionate about building high-quality applications that are scalable and deliver great user experiences.
+
+---
+
+### 🤖 Technologies
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)"
+/>
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Stats
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=mateusmachry&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  />
+  <img 
+      align="left" 
+      alt="Tech Stack" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmachry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+### 🔭 My Projects
+
+[![MicroInteractionsUI](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=microinteractionsui)](https://github.com/mateusmachry/microinteractionsui)
+[![WheelOfFortune](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=react-wheel-of-fortune)](https://github.com/mateusmachry/react-wheel-of-fortune)
