@@ -100,6 +100,6 @@ I'm Mateus, a software engineer passionate about bringing digital products to li
 
 ### 🔭 My Projects
 
-[![MicroInteractionsUI](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=microinteractionsui&theme=tokyonight)](https://github.com/mateusmachry/microinteractionsui)
+[![MicroInteractionsUI](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=microinteractionsui&theme=tokyonight&show_owner=true)](https://github.com/mateusmachry/microinteractionsui)
 
-[![WheelOfFortune](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=react-wheel-of-fortune&theme=tokyonight)](https://github.com/mateusmachry/react-wheel-of-fortune)
+[![WheelOfFortune](https://github-readme-stats.vercel.app/api/pin/?username=mateusmachry&repo=react-wheel-of-fortune&theme=tokyonight&show_owner=true)](https://github.com/mateusmachry/react-wheel-of-fortune)
